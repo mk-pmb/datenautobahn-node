@@ -1,5 +1,5 @@
 { "name": "datenautobahn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A transport system for data packets over long distance, speed-limited at times.",
   "main": "auffahrt.js",
   "scripts": {
